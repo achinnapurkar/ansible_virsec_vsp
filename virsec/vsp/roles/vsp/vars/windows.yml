@@ -1,0 +1,5 @@
+---
+lfr_ip: 10.10.10.10
+cms_ip: 10.10.10.10
+kafka_ip: 10.10.10.10
+install_var: "vsp_install_vm.bat -i {{ inventory_hostname }} -c {{ cms_ip }} -l {{ lfr_ip }} -s web -u -k {{ kafka_ip }} -P -r"
