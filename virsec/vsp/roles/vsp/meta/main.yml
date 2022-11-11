@@ -3,6 +3,6 @@ galaxy_info:
   author: Amogh Chinnapurkar
   description: Install Virsec Probe
   company: Virsec Systems
-  min_ansible_version: 1.2
+  min_ansible_version: "2.10"
   galaxy_tags: [virsec, vsp, security, monitoring, application, windows, linux]
 dependencies: []

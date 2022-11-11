@@ -38,4 +38,4 @@ Make Sure to read documentation to know meaning each flag in above command.
 
 ## License
 See the license for more details
-https://github.com/achinnapurkar/ansible_virsec_vsp/blob/main/LICENSE
+https://github.com/achinnapurkar/ansible_virsec_vsp/blob/main/virsec/vsp/LICENSE
